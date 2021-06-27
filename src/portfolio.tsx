@@ -25,7 +25,7 @@ export const socialMediaLinks = {
 };
 
 export const skills = {
-	title: emoji("I Can Do ⚡"),
+	title: emoji("I Can Do this language"),
 	subTitle: "subtitle for skill",
 	describeSkills: [
 		emoji("✔ describe first"),
@@ -38,18 +38,24 @@ export const skills = {
 	// You need to find className for font-awesome icon
 	// Go to https://fontawesome.com/ and search icon
 	lists: [
-		{fontAwesome: "fab fa-html5", text: "HTML5", proficiency: 80},
-		{fontAwesome: "fab fa-css3-alt", text: "CSS3", proficiency: 70},
-		{fontAwesome: "fab fa-js", text: "JS", proficiency: 70},
-		{fontAwesome: "fab fa-sass", text: "Sass", proficiency: 30},
-		{fontAwesome: "fab fa-react", text: "React", proficiency: 60},
-		{fontAwesome: "fab fa-aws", text: "AWS", proficiency: 20},
+		{fontAwesome: "fab fa-html5", text: "HTML5", proficiency: 0},
+		{fontAwesome: "fab fa-css3-alt", text: "CSS3", proficiency: 0},
+		{fontAwesome: "fab fa-js", text: "JS", proficiency: 0},
+		// {fontAwesome: "fab fa-sass", text: "Sass", proficiency: 30},
+		{fontAwesome: "fab fa-react", text: "React", proficiency: 0},
+		{fontAwesome: "fab fa-android", text: "Android", proficiency: 0},
+		{fontAwesome: "fab fa-java", text: "java", proficiency: 0},
+		{fontAwesome: "fab fa-php", text: "PHP", proficiency: 0},
+		{fontAwesome: "fab fa-git", text: "git", proficiency: 0},
+		{fontAwesome: "fab fa-gitlab", text: "gitlab", proficiency: 0},
+		{fontAwesome: "fab fa-github", text: "github", proficiency: 0},
+
 	],
-	view: false
+	view: true
 };
 
 export const experience = {
-	title: "Work Experience",
+	title: "경력",
 	lists: [
 		{
 			date: "2016.09 ~ 2016.12",
@@ -62,7 +68,7 @@ export const experience = {
 			role: "큐랩 웹 개발자",
 		},
 		{
-			date: "2020.09",
+			date: "2020.09 ~",
 			company: "베스텔라랩",
 			role: "프론트 엔드 개발자 (앱)",
 		},
@@ -73,11 +79,11 @@ export const experience = {
 
 export const openSourceProjects = {
 	title: emoji("Open Source Projects 💻"),
-	view: true
+	view: false
 }
 
 export const projects = {
-	title: emoji("Projects 💻"),
+	title: emoji("Projects"),
 	subTitle: "프로젝트 모음",
 	lists: [
 		{
@@ -86,9 +92,9 @@ export const projects = {
 			url: "https://play.google.com/store/apps/details?id=com.vestellalab.watchmilepublic"
 		},
 		{
-			title: "Project2",
-			desc: "description",
-			url: "#"
+			title: "굴려라 굴려 구르르르",
+			desc: "뱀 주사위형 게임",
+			url: "https://youtu.be/_t0vG_4ksuk"
 		}
 	],
 	view: true

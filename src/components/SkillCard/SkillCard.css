@@ -4,6 +4,8 @@
     height: auto;
     color: #c1c2c3;
     text-align: center;
+    /* margin: 0 auto; */
+    
     border-radius: 16px;
     box-shadow: 13px 13px 6px rgba(0, 0, 0, 0.2);
     background-color: #212223;
@@ -14,9 +16,14 @@
     box-shadow: 0 4px 8px rgba(38, 38, 38, 0.2);
 }
 .skill-card-main .skill-icon {
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
     font-size: 40px;
 }
 .skill-card-main .skill-text {
+    align-items: center;
+    justify-content: center;
     margin-top: 15px;
     font-size: 22px;
 }
