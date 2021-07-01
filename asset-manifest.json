@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KBKPortFolio/static/css/main.d2e12001.chunk.css",
-    "main.js": "/KBKPortFolio/static/js/main.f52f302b.chunk.js",
-    "main.js.map": "/KBKPortFolio/static/js/main.f52f302b.chunk.js.map",
+    "main.css": "/KBKPortFolio/static/css/main.07c0ec24.chunk.css",
+    "main.js": "/KBKPortFolio/static/js/main.d5fdfac3.chunk.js",
+    "main.js.map": "/KBKPortFolio/static/js/main.d5fdfac3.chunk.js.map",
     "runtime-main.js": "/KBKPortFolio/static/js/runtime-main.6a918af3.js",
     "runtime-main.js.map": "/KBKPortFolio/static/js/runtime-main.6a918af3.js.map",
     "static/js/2.9a2180c5.chunk.js": "/KBKPortFolio/static/js/2.9a2180c5.chunk.js",
     "static/js/2.9a2180c5.chunk.js.map": "/KBKPortFolio/static/js/2.9a2180c5.chunk.js.map",
     "index.html": "/KBKPortFolio/index.html",
-    "precache-manifest.3f9808ab66809272fc72849e93069994.js": "/KBKPortFolio/precache-manifest.3f9808ab66809272fc72849e93069994.js",
+    "precache-manifest.e5180cd9f1c5255dbd587772e2c6e8e2.js": "/KBKPortFolio/precache-manifest.e5180cd9f1c5255dbd587772e2c6e8e2.js",
     "service-worker.js": "/KBKPortFolio/service-worker.js",
-    "static/css/main.d2e12001.chunk.css.map": "/KBKPortFolio/static/css/main.d2e12001.chunk.css.map",
+    "static/css/main.07c0ec24.chunk.css.map": "/KBKPortFolio/static/css/main.07c0ec24.chunk.css.map",
     "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/KBKPortFolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
     "static/media/sad-icon.png": "/KBKPortFolio/static/media/sad-icon.b88924d5.png",
     "static/media/your photo.png": "/KBKPortFolio/static/media/your photo.b9d7d448.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.6a918af3.js",
     "static/js/2.9a2180c5.chunk.js",
-    "static/css/main.d2e12001.chunk.css",
-    "static/js/main.f52f302b.chunk.js"
+    "static/css/main.07c0ec24.chunk.css",
+    "static/js/main.d5fdfac3.chunk.js"
   ]
 }
