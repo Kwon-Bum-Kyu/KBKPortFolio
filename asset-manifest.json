@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KBKPortFolio/static/css/main.07c0ec24.chunk.css",
-    "main.js": "/KBKPortFolio/static/js/main.8002ed9e.chunk.js",
-    "main.js.map": "/KBKPortFolio/static/js/main.8002ed9e.chunk.js.map",
+    "main.js": "/KBKPortFolio/static/js/main.cc676984.chunk.js",
+    "main.js.map": "/KBKPortFolio/static/js/main.cc676984.chunk.js.map",
     "runtime-main.js": "/KBKPortFolio/static/js/runtime-main.6a918af3.js",
     "runtime-main.js.map": "/KBKPortFolio/static/js/runtime-main.6a918af3.js.map",
     "static/js/2.9a2180c5.chunk.js": "/KBKPortFolio/static/js/2.9a2180c5.chunk.js",
     "static/js/2.9a2180c5.chunk.js.map": "/KBKPortFolio/static/js/2.9a2180c5.chunk.js.map",
     "index.html": "/KBKPortFolio/index.html",
-    "precache-manifest.d4ddad5b4ae7efe7fa4609a56b2ccd01.js": "/KBKPortFolio/precache-manifest.d4ddad5b4ae7efe7fa4609a56b2ccd01.js",
+    "precache-manifest.f1d076a23542a57cd3438339e711d77d.js": "/KBKPortFolio/precache-manifest.f1d076a23542a57cd3438339e711d77d.js",
     "service-worker.js": "/KBKPortFolio/service-worker.js",
     "static/css/main.07c0ec24.chunk.css.map": "/KBKPortFolio/static/css/main.07c0ec24.chunk.css.map",
     "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/KBKPortFolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6a918af3.js",
     "static/js/2.9a2180c5.chunk.js",
     "static/css/main.07c0ec24.chunk.css",
-    "static/js/main.8002ed9e.chunk.js"
+    "static/js/main.cc676984.chunk.js"
   ]
 }
