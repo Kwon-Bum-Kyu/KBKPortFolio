@@ -2,12 +2,15 @@ import React from 'react';
 import './Blog.css';
 import { blogs } from '../../portfolio';
 import BlogCard from '../BlogCard/BlogCard';
+// import { render } from '@testing-library/react';
 
 function Blog() {
+
+    
     return (
-        <section className="section--blog" id="blog">
+        < section className="section--blog" id="blog" >
             <div className="inner">
-                
+
                 <div className="blog-title">
                     <p>{blogs.title}</p>
                 </div>
@@ -15,15 +18,16 @@ function Blog() {
                 <div className="blog-subtitle">
                     <p>{blogs.subTitle}</p>
                 </div>
-                
+
                 <div className="blog-content">
                     {blogs.lists.map((list, i) => {
                         return <BlogCard blogs={list} key={i} />;
                     })}
                 </div>
-                
+
             </div>
-        </section>
-    );
+        </section >
+    )
+
 }
 export default Blog;
