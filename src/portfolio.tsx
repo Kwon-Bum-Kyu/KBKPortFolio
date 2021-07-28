@@ -99,9 +99,9 @@ export const projects = {
 			url: "https://Kwon-Bum-Kyu.github.io/KBKPortFolio/WatchMile_Benz_Image.png"
 		},
 		{
-			title: "굴려라 굴려 구르르르",
-			desc: "부루마블과 같은 뱀 주사위형 게임으로 어드민 페이지를 제작하였습니다.",
-			url: "https://youtu.be/_t0vG_4ksuk"
+			title: "롤링 러너",
+			desc: "템플런과 같은 런닝 게임으로 어드민 페이지를 제작, 서버 관리를 담당하였습니다.",
+			url: "https://youtu.be/gN9hYygCbWY"
 		},
 		
 	],
