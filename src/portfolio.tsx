@@ -100,6 +100,11 @@ export const projects = {
 			url: "https://Kwon-Bum-Kyu.github.io/KBKPortFolio/WatchMile_Benz_Image.png"
 		},
 		{
+			title: "트레블 씨투비",
+			desc: "자유여행 계획 서비스로 항공사, 셔틀 버스 예약과 관련된 서비스가 있으며 Android 개발을 담당하였습니다.",
+			url: "https://play.google.com/store/apps/details?id=com.pushapp.travelc2b"
+		},
+		{
 			title: "롤링 러너",
 			desc: "템플런과 같은 런닝 게임으로 어드민 페이지를 제작, 서버 관리를 담당하였습니다.",
 			url: "https://youtu.be/gN9hYygCbWY"
@@ -136,7 +141,7 @@ export const blogs = {
 		{
 			title: "경력 기술서",
 			desc: "경력 기술서 입니다.",
-			url: "https://Kwon-Bum-Kyu.github.io/KBKPortFolio/KBK_career_statement.pdf"
+			url: "https://kaput-throat-bee.notion.site/7da23061d4c847709a118724f4e9f1ff"
 		},
 		{
 			title: "벤츠 스타트업 아우토반",
