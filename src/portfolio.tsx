@@ -5,7 +5,7 @@ export const greeting = {
 	title: 'DEV KBK',
 	subTitle: emoji("프론트 엔드 개발자"),
 	// role: "Your role",
-	resumeLink: "https://Kwon-Bum-Kyu.github.io/KBKPortFolio/KBK_career_statement.pdf",
+	resumeLink: "/KBKPortFolio/KBK_career_statement.pdf",
 	// IMPORTANT
 	// If you don't want to show this, change view to false. DO NOT DELETE!
 	// 테스트 1223123123123123
