@@ -3,8 +3,11 @@
 
 ![캡처s](https://user-images.githubusercontent.com/16658067/94679897-d2e40c00-035b-11eb-8c90-c4fb4f79157d.PNG)
 
+## License
+해당 데모 페이지를 활용한 포트폴리오 자료 
+https://github.com/Ikalli/ReactFolio
+
 ## Page
-해당 데모 페이지를 활용한 포트폴리오 자료 https://github.com/Ikalli/ReactFolio
 https://Kwon-Bum-Kyu.github.io/KBKPortFolio
 
 ## Contents
