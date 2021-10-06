@@ -30,7 +30,7 @@ export const skills = {
 	subTitle: "직무 역량",
 	describeSkills: [
 		emoji("TEAM WITH, 워치마일을 진행하면서 Html, Javascript, PHP, React, React-native 등 다양한 언어의 경험을 쌓았습니다."),
-		emoji("워치마일을 제작하면서 실내 측위를 활용하기 위한 비콘을 워치마일에 연동을 하며 무거운 기능을 최적화를 하기 위해서 직장 동료분들에게 코드 리뷰를 하며 직접 유지 보수를 진행하였습니다."),
+		emoji("워치마일을 제작하면서 실내 측위를 활용하기 위한 비콘을 워치마일에 연동을 하며 무거운 기능을 최적화를 하기 위해서 코드 리뷰를 하고 의견을 나누며 직접 유지 보수를 진행하였습니다."),
 		emoji("워치마일이 연동된 주차장들을 하나로 묶는 워치마일 알파는 직접 기획에 참여하며 백엔드 개발자, 디자이너와의 협업을 위해서 커뮤니케이션을 매주 1회 이상 진행을 하며 실무에서 필요한 협업 경험을 쌓았습니다."),
 		// emoji("가설로 시작한 크고 작은 기능과 개선들을 모두 실험(A/B Test)으로 빠르게 진행하고, 이를 현장에서 검증하며 결과를 확인하고 공유하여 유저에 대한 이해를 높힐 수 있었고, 실험 데이터를 직접 확인하여 데이터로 커뮤니케이션하는 능력을 키웠습니다."),
 		emoji("Analytics를 통해 유저의 문제를 찾거나 내부 회의를 통한 아이디어로 가설을 발굴하여, 직접 기획하고 개발하여 품에 기여하는 경험을 수차례 진행하며, 개발뿐만아니라 제품관점의 시야를 넓혔고, 프로덕트 개발 오너십에 대한 증명을 했습니다."),
@@ -68,12 +68,12 @@ export const experience = {
 		{
 			date: "2017.04 ~ 2018.02",
 			company: "큐랩",
-			role: "큐랩 웹 개발자",
+			role: "큐랩 웹 Developer",
 		},
 		{
 			date: "2020.09 ~",
 			company: "베스텔라랩",
-			role: "프론트 엔드 개발자 (앱)",
+			role: "하이브리드 앱 엔지니어",
 		},
 	
 	],
@@ -115,23 +115,23 @@ export const projects = {
 }
 
 export const achievements = {
-	title: emoji("Achievements And Certifications 🏆"),
-	subTitle: "subtitle for achievement",
+	title: emoji("수상 🏆"),
+	subTitle: "",
 	lists: [
 		{
-			img: require("./assets/sad-icon.png"),
-			alt: "I'm sad..",
-			title: "There is no Achievement...😥",
-			desc: "I'll try harder!"
+			img: require("./assets/2021-09-11_Korea&India_together.png"),
+			alt: "한-인도 SDGs 실현 해커톤",
+			title: "한-인도 SDGs 실현 해커톤",
+			desc: "한국과 인도가 공동으로 개최한 사회가치 실현을 위한 해커톤에서 팀으로 참가해 좋은 성적을 거둬 수상을 했습니다."
 		},
-		{
-			img: require("./assets/sad-icon.png"),
-			alt: "I'm sad..",
-			title: "There is no Certification...😥",
-			desc: "I'll try harder!"
-		},
+		// {
+		// 	img: require("./assets/sad-icon.png"),
+		// 	alt: "I'm sad..",
+		// 	title: "There is no Certification...😥",
+		// 	desc: "I'll try harder!"
+		// },
 	],
-	view: false
+	view: true
 };
 
 export const blogs = {
