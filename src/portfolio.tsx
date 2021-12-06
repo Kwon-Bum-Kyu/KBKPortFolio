@@ -92,7 +92,7 @@ export const projects = {
 		{
 			title: "워치마일",
 			desc: "실내 주차장 내비게이션 앱으로 프론트 엔드 디자인, 영상 분석을 담당하였습니다.",
-			url: "https://play.google.com/store/apps/details?id=com.vestellalab.watchmilepublic"
+			url: "https://play.google.com/store/apps/details?id=com.vestellalab.watchmileskv1anyang2"
 		},
 		// {
 		// 	title: "워치마일 벤츠",
@@ -123,7 +123,7 @@ export const achievements = {
 			alt: "한-인도 SDGs 실현 해커톤",
 			title: "한-인도 SDGs 실현 해커톤",
 			desc: "한국과 인도가 공동으로 개최한 사회가치 실현을 위한 해커톤에서 팀으로 참가해 좋은 성적을 거둬 수상을 했습니다."
-		},
+		}
 		// {
 		// 	img: require("./assets/sad-icon.png"),
 		// 	alt: "I'm sad..",
@@ -141,7 +141,7 @@ export const blogs = {
 		{
 			title: "경력 기술서",
 			desc: "경력 기술서 입니다.",
-			url: "https://kaput-throat-bee.notion.site/7da23061d4c847709a118724f4e9f1ff"
+			url: "https://www.notion.so/7da23061d4c847709a118724f4e9f1ff"
 		},
 		{
 			title: "벤츠 스타트업 아우토반",
