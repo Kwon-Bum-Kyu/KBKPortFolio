@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/KBKPortFolio/static/css/main.2d9f64c6.chunk.css",
-    "main.js": "/KBKPortFolio/static/js/main.96bb8bed.chunk.js",
+    "main.js": "/KBKPortFolio/static/js/main.fc769fc3.chunk.js",
     "runtime-main.js": "/KBKPortFolio/static/js/runtime-main.6a918af3.js",
     "static/js/2.0bc31633.chunk.js": "/KBKPortFolio/static/js/2.0bc31633.chunk.js",
     "index.html": "/KBKPortFolio/index.html",
-    "precache-manifest.ab9f6a6a531813bec7afa4538bb8e297.js": "/KBKPortFolio/precache-manifest.ab9f6a6a531813bec7afa4538bb8e297.js",
+    "precache-manifest.f476f2ebff1313279990effb7ffe5a6f.js": "/KBKPortFolio/precache-manifest.f476f2ebff1313279990effb7ffe5a6f.js",
     "service-worker.js": "/KBKPortFolio/service-worker.js",
     "static/js/2.0bc31633.chunk.js.LICENSE.txt": "/KBKPortFolio/static/js/2.0bc31633.chunk.js.LICENSE.txt",
     "static/media/2021-09-11_Korea&India_together.png": "/KBKPortFolio/static/media/2021-09-11_Korea&India_together.38ea700b.png",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6a918af3.js",
     "static/js/2.0bc31633.chunk.js",
     "static/css/main.2d9f64c6.chunk.css",
-    "static/js/main.96bb8bed.chunk.js"
+    "static/js/main.fc769fc3.chunk.js"
   ]
 }
