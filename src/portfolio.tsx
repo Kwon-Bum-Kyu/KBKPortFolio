@@ -141,7 +141,7 @@ export const blogs = {
 		{
 			title: "경력 기술서",
 			desc: "경력 기술서 입니다.",
-			url: "https://www.notion.so/7da23061d4c847709a118724f4e9f1ff"
+			url: "https://kbkportfolio.notion.site/7da23061d4c847709a118724f4e9f1ff"
 		},
 		{
 			title: "벤츠 스타트업 아우토반",
